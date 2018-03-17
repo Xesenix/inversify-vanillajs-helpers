@@ -8,7 +8,7 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
+  "peerDependencies": {
     "inversify": "4.11.0"
   },
   "devDependencies": {
